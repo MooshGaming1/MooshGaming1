@@ -1,20 +1,14 @@
-Mahesh Rajarajan
-I am a developer focused on the mathematical foundations of deep learning. My work centers on building neural networks from first principles, prioritizing a deep understanding of the underlying calculus and linear algebra over high-level library abstractions.
+# Hi, I'm Mahesh 👋
 
-I prefer high-signal environments and direct technical challenges. My current focus is on the transition toward advanced statistics and mathematics to better understand the optimization of complex architectures.
+I’m a math major at Middlesex College figuring out how neural networks actually work under the hood. Instead of jumping straight into high-level frameworks, I prefer building things from scratch first—working through the calculus and linear algebra until the math clicks.
 
-Technical Focus
-Languages & Math
-Python, JavaScript (ES6+), LaTeX, Multivariable Calculus, Linear Algebra.
+Right now, I’m bridging the gap between foundational math and practical deep learning. I’m diving into multivariable calculus, linear algebra, and probability to understand how models optimize, then implementing those ideas in code before leaning on libraries like PyTorch or TensorFlow.
 
-Deep Learning & Data Science
-PyTorch, TensorFlow, NumPy, Matplotlib.
+### 🛠️ Current Toolkit
+- **Languages:** Python, JavaScript (ES6+), LaTeX
+- **Math & Theory:** Multivariable Calculus, Linear Algebra, Probability & Statistics
+- **ML/DL:** NumPy, PyTorch, TensorFlow, Matplotlib
+  
 
-Infrastructure
-Local LLM deployment, Unix-based environments, Git.
-
-Philosophy
-I value technical rigor and efficiency. I believe that 15 minutes of undistracted, focused thinking is more productive than hours of superficial work. I build tools to understand how they work, not just to see them run.
-
-Contact
-If you are working on something technically demanding that requires a first-principles approach, feel free to reach out.
+### 📬 Let's Connect
+I’m always open to chatting about math-driven ML, optimization, or just trading notes on building things from first principles. Feel free to reach out!
