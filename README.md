@@ -10,5 +10,3 @@ Right now, I’m bridging the gap between foundational math and practical deep l
 - **ML/DL:** NumPy, PyTorch, TensorFlow, Matplotlib
   
 
-### 📬 Let's Connect
-I’m always open to chatting about math-driven ML, optimization, or just trading notes on building things from first principles. Feel free to reach out!
